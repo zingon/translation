@@ -15,15 +15,15 @@
     }
   ],
   "require": {
-    "php": "^8.0.2",
+    "php": ">=8.0.2",
     "latte/latte": "^2.6|^3.0",
-    "nette/di": "^3.0.6",
-    "nette/finder": "^2.5.2",
-    "nette/http": "^3.0.7",
+    "nette/di": "^3.0.6|^4.0-dev",
+    "nette/finder": "^2.5.2|^3.0.0",
+    "nette/http": "^3.0.7|^4.0-dev",
     "nette/neon": "^3.3.1",
     "nette/schema": "^1.0",
-    "nette/routing": "^3.0",
-    "nette/utils": "^3.2.1",
+    "nette/routing": "^3.0|^4.0-dev",
+    "nette/utils": "^3.2.1|^4.0-dev",
     "symfony/translation": "^6.0",
     "symfony/config": "^6.0"
   },
